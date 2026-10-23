@@ -18,7 +18,7 @@ It started as a simple list and slowly grew into a small study app that I use ev
 
 ## How to use it
 
-Open https://abidmahmud.github.io/netzwerk-a1/ in Chrome and tap **Install app** in the menu. After that it opens from the home screen like any other app and works without internet. Only the real voice recordings need a connection.
+Open https://abidmahmud.github.io/Deutsch-A1/ in Chrome and tap **Install app** in the menu. After that it opens from the home screen like any other app and works without internet. Only the real voice recordings need a connection.
 
 Your progress stays on your device. To move it to a new phone or tablet, go to **Fortschritt → Daten exportieren** and import the file on the other device.
 
